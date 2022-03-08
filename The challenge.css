@@ -1,0 +1,44 @@
+
+
+body{
+    background-color: #D5E1EF;
+}
+
+div.maindiv {
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 20px;
+    width: 300px;
+    height: auto;
+    margin:auto;
+    padding: 15px;
+    margin-top: 100px;
+    box-shadow: 0px 10px 40px -20px gray;
+}
+img.QRcode{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 15px;
+
+}
+h1{
+    text-align: center;
+    font-family: outfit;
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+    font-size: 22px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+p{
+    text-align: center;
+    font-family: outfit;
+    font-weight: 400;
+    font-size: 15px;
+    color: hsl(212, 10%, 62%);
+    margin-left: 20px;
+    margin-right: 20px;
+}
